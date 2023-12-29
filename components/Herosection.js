@@ -9,11 +9,10 @@ function Herosection() {
           <div class="text-wrapper col-12 col-lg-7">
             <div class="text-body">
               <h1 class=" fw-bold">
-                The easiest way to manage projects
+                COMING SOON...
               </h1>
               <p class="mt-3">
-                From the small stuff to the big picture, organizes the work so
-                teams know what to do, why it matters, and how to get it done.
+                Cosmozen - The cosmic generation. Live like a multi Galactic species.
               </p>
             </div>
             <div class="btns-group mt-3">
